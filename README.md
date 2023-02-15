@@ -9,3 +9,9 @@ total admission <img src="https://user-images.githubusercontent.com/124863903/21
 ![total_students]<img src="https://user-images.githubusercontent.com/124863903/218443607-0a1ca43a-0242-49bd-8396-2ed885c5faba.svg"/>
 ![total_Staff]<img src="https://user-images.githubusercontent.com/124863903/218443633-607ebbee-90d9-4ffd-a330-f09a643b7f12.svg"/>
 ![USTM_Blue_Logo](https://user-images.githubusercontent.com/124863903/218665550-8d9d9812-3aae-477c-815f-b61f9d0aec12.svg)
+
+
+![img_1](https://user-images.githubusercontent.com/124863903/218956686-e818660c-3a34-4847-90fe-b0268a8b9517.png)
+![img_2](https://user-images.githubusercontent.com/124863903/218956701-9fbe54c6-3f8e-4d04-a61f-9a91f0f057a9.png)
+![img_3](https://user-images.githubusercontent.com/124863903/218956727-6c82c640-9cf2-4d40-b9cf-084591bf5971.png)
+![img_4](https://user-images.githubusercontent.com/124863903/218956741-2c8100a1-5366-496c-9c33-2cad858905f1.png)

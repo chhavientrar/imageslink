@@ -23,4 +23,6 @@ total admission <img src="https://user-images.githubusercontent.com/124863903/21
 
 
 ![2](https://user-images.githubusercontent.com/124863903/218984446-b117525a-8b9b-48fd-bf28-eec9ffe3936d.png)
+![entrar_secondary_logo](https://user-images.githubusercontent.com/124863903/219287196-e364586c-1383-4fd1-9316-d6e5ea3e739e.svg)
+
 

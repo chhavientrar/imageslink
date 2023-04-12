@@ -31,3 +31,11 @@ total admission <img src="https://user-images.githubusercontent.com/124863903/21
 ![image](https://user-images.githubusercontent.com/124863903/230847712-71db2a13-5c62-4dc6-a404-60920d749b06.png)
 ![image](https://user-images.githubusercontent.com/124863903/230848195-8f76950d-91af-46fd-9042-1913b3e0ade1.png)
 ![image](https://user-images.githubusercontent.com/124863903/230888709-5addd2e3-e4c1-4472-8b07-e4d524c1c9b2.png)
+![image](https://user-images.githubusercontent.com/124863903/231383276-36aa82ae-942d-41f4-b878-872da08abfdc.png)
+![image](https://user-images.githubusercontent.com/124863903/231383375-45e431ae-3af9-4104-8059-9fb8cf68f79a.png)
+![image](https://user-images.githubusercontent.com/124863903/231383456-776647ea-23b1-49d8-943f-e9927a40637e.png)
+
+
+![img1 (1)](https://user-images.githubusercontent.com/124863903/231404589-6ef1ce51-d1a3-46fa-8ce3-b797efac5e9b.jpg)
+![img1 (2)](https://user-images.githubusercontent.com/124863903/231404624-7254fd74-c734-4284-a10d-e84dd6c6fb79.jpg)
+![img1 (3)](https://user-images.githubusercontent.com/124863903/231404646-7f5d2070-681c-4c0b-a25c-8e8c1a2760b7.jpg)

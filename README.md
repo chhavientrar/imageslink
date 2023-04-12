@@ -39,3 +39,5 @@ total admission <img src="https://user-images.githubusercontent.com/124863903/21
 ![img1 (1)](https://user-images.githubusercontent.com/124863903/231404589-6ef1ce51-d1a3-46fa-8ce3-b797efac5e9b.jpg)
 ![img1 (2)](https://user-images.githubusercontent.com/124863903/231404624-7254fd74-c734-4284-a10d-e84dd6c6fb79.jpg)
 ![img1 (3)](https://user-images.githubusercontent.com/124863903/231404646-7f5d2070-681c-4c0b-a25c-8e8c1a2760b7.jpg)
+![image](https://user-images.githubusercontent.com/124863903/231466810-75466b08-6cf1-42ef-8c44-8441ef6c9be2.png)
+

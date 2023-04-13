@@ -42,5 +42,6 @@ total admission <img src="https://user-images.githubusercontent.com/124863903/21
 ![image](https://user-images.githubusercontent.com/124863903/231466810-75466b08-6cf1-42ef-8c44-8441ef6c9be2.png)
 
 ![stock-photo-business-people-working-together-bussiness-team-232863427](https://user-images.githubusercontent.com/124863903/231656461-1c948837-74ae-433d-ad1d-12ca4527f635.jpg)
+![stock-photo-video-conference-call-in-office-boardroom-meeting-room-executive-directors-talk-with-group-of-2104457840](https://user-images.githubusercontent.com/124863903/231759819-a9cd3274-a556-4b95-ab2b-7bf1eef55c14.jpg)
 ![image](https://user-images.githubusercontent.com/124863903/231661193-15359dc3-3c95-4155-949e-760d0d708c88.png)
 

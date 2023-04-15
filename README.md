@@ -44,6 +44,9 @@ total admission <img src="https://user-images.githubusercontent.com/124863903/21
 ![stock-photo-business-people-working-together-bussiness-team-232863427](https://user-images.githubusercontent.com/124863903/231656461-1c948837-74ae-433d-ad1d-12ca4527f635.jpg)
 ![stock-photo-video-conference-call-in-office-boardroom-meeting-room-executive-directors-talk-with-group-of-2104457840](https://user-images.githubusercontent.com/124863903/231759819-a9cd3274-a556-4b95-ab2b-7bf1eef55c14.jpg)
 ![image](https://user-images.githubusercontent.com/124863903/231661193-15359dc3-3c95-4155-949e-760d0d708c88.png)
-![stock-photo-good-news-for-us-young-handsome-man-looking-at-laptop-with-smile-while-sitting-at-the-office-table-428227414](https://user-images.githubusercontent.com/124863903/232183170-48605b9d-999f-4c08-9eee-58738356a562.jpg)
+![stock-photo-good-news-for-us-young-handsome-man-looking-at-laptop-with-smile-while-sitting-at-the-office-table-428227414](https://user-images.githubusercontent.c![stock-photo-back-view-of-business-woman-talking-to-her-colleagues-about-plan-in-video-conference-multiethnic-1676998309](https://user-images.githubusercontent.com/124863903/232193898-6f487184-6465-41b8-8fd3-852c1c446e15.jpg)
+om/124863903/232183170-48605b9d-999f-4c08-9eee-58738356a562.jpg)
 
 
+![Uploading stock-photo-back-view-of-business-woman-talking-to-her-colleagues-about-plan-in-video-conference-multiethnic-1676998309.jpg…]()
+![stock-photo-a-businessperson-s-hand-giving-cheque-to-customer-and-dollar-bill-coin-laptop-and-graph-chart-on-2076635053](https://user-images.githubusercontent.com/124863903/232194336-7c6044a2-cda5-4a89-98b0-7aea918b2cca.jpg)

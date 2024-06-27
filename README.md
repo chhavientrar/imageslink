@@ -1,4 +1,4 @@
-![Settings](https://github.com/chhavientrar/imageslink/assets/124863903/7b21a524-7a33-41a0-b79e-fb3d14233902)<img src="https://user-images.githubusercontent.com/124863903/218380010-ece680ea-ab8f-4f5c-affa-2a11f4a7ede3.svg"/>
+![finalDashboard](https://github.com/chhavientrar/imageslink/assets/124863903/b1a72011-4ba7-4280-a20f-48e5df6f228e)![Settings](https://github.com/chhavientrar/imageslink/assets/124863903/7b21a524-7a33-41a0-b79e-fb3d14233902)<img src="https://user-images.githubusercontent.com/124863903/218380010-ece680ea-ab8f-4f5c-affa-2a11f4a7ede3.svg"/>
 <img src="https://user-images.githubusercontent.com/124863903/218380017-d36ee0f6-d3a7-4cfa-851f-cc0b380f05ba.svg"/>
 ![USTM_logo (1)](https://user-images.githubusercontent.com/124863903/218385611-41d3db19-2513-441d-b25f-73b43c77584f.svg)
 total admission <img src="https://user-images.githubusercontent.com/124863903/218443245-07bfa721-278b-4240-bc28-2b75ca6a9e0f.svg"/>
@@ -113,5 +113,17 @@ om/124863903/232183170-48605b9d-999f-4c08-9eee-58738356a562.jpg)
   </g>
 </svg>
 
+![finalDashboard](https://github.com/chhavientrar/imageslink/assets/124863903/d66335a1-cbbe-4b71-926f-fe35888ab980)
 
+
+
+![Master_Setup (2)](https://github.com/chhavientrar/imageslink/assets/124863903/e74e2b66-32df-4edf-a15f-bd512dae7ec0)
+
+
+
+
+![Alumni (1)](https://github.com/chhavientrar/imageslink/assets/124863903/fe75398f-bd45-41d8-b26f-0c31ee20f9d0)
+![Event_Calendar](https://github.com/chhavientrar/imageslink/assets/124863903/3afad173-cc9d-420d-b982-742d67f356a9)
+![Profile](https://github.com/chhavientrar/imageslink/assets/124863903/c92ff768-764d-4239-9fef-2085dfbccd13)
+![Settings (1)](https://github.com/chhavientrar/imageslink/assets/124863903/a780d319-d22c-4b9c-b732-4a49e0795d11)
 

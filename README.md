@@ -95,5 +95,23 @@ om/124863903/232183170-48605b9d-999f-4c08-9eee-58738356a562.jpg)
 </svg>
 
 
+![Notification2](https://github.com/chhavientrar/imageslink/assets/124863903/9533d6cb-d463-4b74-a4fe-97d3743909f7)<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25" viewBox="0 0 25 25">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.198" y1="0.167" x2="1.037" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#71d127"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_37461" data-name="Group 37461" transform="translate(-7853 1136)">
+    <rect id="Rectangle_11167" data-name="Rectangle 11167" width="25" height="25" rx="6" transform="translate(7853 -1136)" fill="#292929"/>
+    <circle id="Ellipse_28" data-name="Ellipse 28" cx="9.5" cy="9.5" r="9.5" transform="translate(7856 -1133)" opacity="0.607" fill="url(#linear-gradient)"/>
+    <g id="Group_37458" data-name="Group 37458" transform="translate(7860.5 -1129.5)">
+      <path id="Path_37112" data-name="Path 37112" d="M132,343.332a2,2,0,1,1-2-2A2,2,0,0,1,132,343.332Zm0,0" transform="translate(-125 -333.332)" fill="#18a836"/>
+      <path id="Path_37113" data-name="Path 37113" d="M192.5,2a.5.5,0,0,1-.5-.5V.5a.5.5,0,0,1,1,0v1A.5.5,0,0,1,192.5,2Zm0,0" transform="translate(-187.5)" fill="#18a836"/>
+      <path id="Path_37114" data-name="Path 37114" d="M9.689,50.124A3.348,3.348,0,0,1,8.5,47.562V46.168a3.5,3.5,0,0,0-7,0v1.394A3.353,3.353,0,0,1,.306,50.128a.875.875,0,0,0,.569,1.54h8.25a.875.875,0,0,0,.565-1.544Zm0,0" transform="translate(0 -41.668)" fill="#71d127"/>
+    </g>
+  </g>
+</svg>
+
 
 

@@ -1,4 +1,4 @@
-![finalDashboard](https://github.com/chhavientrar/imageslink/assets/124863903/b1a72011-4ba7-4280-a20f-48e5df6f228e)![Settings](https://github.com/chhavientrar/imageslink/assets/124863903/7b21a524-7a33-41a0-b79e-fb3d14233902)<img src="https://user-images.githubusercontent.com/124863903/218380010-ece680ea-ab8f-4f5c-affa-2a11f4a7ede3.svg"/>
+![1729837647731_Events](https://github.com/user-attachments/assets/3a8f564e-35ed-4976-85bf-c94c25ff70c7)![finalDashboard](https://github.com/chhavientrar/imageslink/assets/124863903/b1a72011-4ba7-4280-a20f-48e5df6f228e)![Settings](https://github.com/chhavientrar/imageslink/assets/124863903/7b21a524-7a33-41a0-b79e-fb3d14233902)<img src="https://user-images.githubusercontent.com/124863903/218380010-ece680ea-ab8f-4f5c-affa-2a11f4a7ede3.svg"/>
 <img src="https://user-images.githubusercontent.com/124863903/218380017-d36ee0f6-d3a7-4cfa-851f-cc0b380f05ba.svg"/>
 ![USTM_logo (1)](https://user-images.githubusercontent.com/124863903/218385611-41d3db19-2513-441d-b25f-73b43c77584f.svg)
 total admission <img src="https://user-images.githubusercontent.com/124863903/218443245-07bfa721-278b-4240-bc28-2b75ca6a9e0f.svg"/>
@@ -139,6 +139,33 @@ om/124863903/232183170-48605b9d-999f-4c08-9eee-58738356a562.jpg)
 
 
 ![1729837574201_Dashboard](https://github.com/user-attachments/assets/81312246-6cf2-45fb-99b5-a9c9fc7390eb)
+
+
+![Uploading 172983764773<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="137" height="140" viewBox="0 0 137 140">
+  <defs>
+    <filter id="Path_35400">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_38656" data-name="Group 38656" transform="translate(1001 -4760)">
+    <rect id="Rectangle_9555" data-name="Rectangle 9555" width="137" height="140" rx="32" transform="translate(-1001 4760)" fill="#efefef"/>
+    <g id="Layer_29" data-name="Layer 29" transform="translate(-970 4792)">
+      <g data-type="innerShadowGroup">
+        <path id="Path_35400-2" data-name="Path 35400" d="M72.449,18.027v5.342H3V18.027a5.342,5.342,0,0,1,5.342-5.342h8.013V4.671a2.671,2.671,0,1,1,5.342,0v8.013H53.751V4.671a2.671,2.671,0,0,1,5.342,0v8.013h8.013A5.342,5.342,0,0,1,72.449,18.027ZM3,28.711H72.449V68.778a5.342,5.342,0,0,1-5.342,5.342H8.342A5.342,5.342,0,0,1,3,68.778Zm19.633,19.1,5.342,5.129a2.03,2.03,0,0,1,.614,1.87L27.36,62.073a2.137,2.137,0,0,0,3.1,2.244L36.95,60.9a2.217,2.217,0,0,1,2,0l6.491,3.419a2.137,2.137,0,0,0,2.965-2.244L47.18,54.808a2.03,2.03,0,0,1,.614-1.87l5.342-5.129a2.164,2.164,0,0,0-1.175-3.659l-7.292-1.042a2.137,2.137,0,0,1-1.6-1.042l-3.259-6.6a2.137,2.137,0,0,0-3.82,0l-3.285,6.6a2.137,2.137,0,0,1-1.6,1.175l-7.265,1.042a2.164,2.164,0,0,0-1.2,3.526Z" transform="translate(0 0)" fill="#038943"/>
+        <g transform="matrix(1, 0, 0, 1, -31, -32)" filter="url(#Path_35400)">
+          <path id="Path_35400-3" data-name="Path 35400" d="M72.449,18.027v5.342H3V18.027a5.342,5.342,0,0,1,5.342-5.342h8.013V4.671a2.671,2.671,0,1,1,5.342,0v8.013H53.751V4.671a2.671,2.671,0,0,1,5.342,0v8.013h8.013A5.342,5.342,0,0,1,72.449,18.027ZM3,28.711H72.449V68.778a5.342,5.342,0,0,1-5.342,5.342H8.342A5.342,5.342,0,0,1,3,68.778Zm19.633,19.1,5.342,5.129a2.03,2.03,0,0,1,.614,1.87L27.36,62.073a2.137,2.137,0,0,0,3.1,2.244L36.95,60.9a2.217,2.217,0,0,1,2,0l6.491,3.419a2.137,2.137,0,0,0,2.965-2.244L47.18,54.808a2.03,2.03,0,0,1,.614-1.87l5.342-5.129a2.164,2.164,0,0,0-1.175-3.659l-7.292-1.042a2.137,2.137,0,0,1-1.6-1.042l-3.259-6.6a2.137,2.137,0,0,0-3.82,0l-3.285,6.6a2.137,2.137,0,0,1-1.6,1.175l-7.265,1.042a2.164,2.164,0,0,0-1.2,3.526Z" transform="translate(31 32)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
+1_Events.svg…]()
+
 
 
 

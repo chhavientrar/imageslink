@@ -134,34 +134,11 @@ om/124863903/232183170-48605b9d-999f-4c08-9eee-58738356a562.jpg)
 ![Profile](https://github.com/chhavientrar/imageslink/assets/124863903/c92ff768-764d-4239-9fef-2085dfbccd13)
 ![Settings (1)](https://github.com/chhavientrar/imageslink/assets/124863903/a780d319-d22c-4b9c-b732-4a49e0795d11)
 
-![1729837510729_Alumni](https://github.com/user-attachments/assets/fab2f4ad-59bc-42b1-ba12-a25bca1e5de6)
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="145" height="141" viewBox="0 0 145 141">
-  <defs>
-    <filter id="Path_35398" x="23.841" y="38.943" width="97.319" height="79.26" filterUnits="userSpaceOnUse">
-      <feOffset dy="3" input="SourceAlpha"/>
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feFlood flood-opacity="0.161"/>
-      <feComposite operator="in" in2="blur"/>
-      <feComposite in="SourceGraphic"/>
-    </filter>
-    <filter id="Path_35399" x="39.392" y="70.198" width="66.415" height="42.386" filterUnits="userSpaceOnUse">
-      <feOffset dy="3" input="SourceAlpha"/>
-      <feGaussianBlur stdDeviation="3" result="blur-2"/>
-      <feFlood flood-opacity="0.161"/>
-      <feComposite operator="in" in2="blur-2"/>
-      <feComposite in="SourceGraphic"/>
-    </filter>
-  </defs>
-  <g id="Group_38655" data-name="Group 38655" transform="translate(1187 -4856)">
-    <rect id="Rectangle_9554" data-name="Rectangle 9554" width="145" height="141" rx="32" transform="translate(-1187 4856)" fill="#efefef"/>
-    <g id="Group_37600" data-name="Group 37600" transform="translate(-1158.177 4890.555)">
-      <g transform="matrix(1, 0, 0, 1, -28.82, -34.55)" filter="url(#Path_35398)">
-        <path id="Path_35398-2" data-name="Path 35398" d="M81.93,26.321,44.683,10.575a2.3,2.3,0,0,0-1.814,0L5.438,26.264a2.381,2.381,0,0,0-.014,4.351C7.637,31.563,20.586,37,22.4,37.787l20.466,8.631a2.4,2.4,0,0,0,1.814-.014c6.575-2.774,23.547-9.949,29.863-12.628-.015,1.755.011,16.549,0,18.694-2.815.71-3.958,5.509-2.381,8.107l-2.084,9.354a1.384,1.384,0,0,0,.609,1.488,1.4,1.4,0,0,0,1.616-.057,6.094,6.094,0,0,1,3.472-1.191,6.009,6.009,0,0,1,3.7,1.2,1.433,1.433,0,0,0,2.211-1.531l-2.65-9.312C80.4,58.2,79.661,54,77.38,52.825c.013-2.164-.009-18.536,0-20.239l4.55-1.928a2.375,2.375,0,0,0,0-4.337Z" transform="translate(28.82 34.55)" fill="#038943"/>
-      </g>
-      <g transform="matrix(1, 0, 0, 1, -28.82, -34.55)" filter="url(#Path_35399)">
-        <path id="Path_35399-2" data-name="Path 35399" d="M37.185,40.413c-1.707-.72-21.143-8.935-22.195-9.368v13.8a4.578,4.578,0,0,0,2.027,3.742,39.5,39.5,0,0,0,21.075,6.817,40.466,40.466,0,0,0,23.23-6.775,4.626,4.626,0,0,0,2.083-3.8V31.03c-.983.427-20.527,8.677-22.195,9.383A5.282,5.282,0,0,1,37.185,40.413Z" transform="translate(33.4 45.17)" fill="#038943"/>
-      </g>
-    </g>
-  </g>
-</svg>
+
+
+
+
+![1729837574201_Dashboard](https://github.com/user-attachments/assets/81312246-6cf2-45fb-99b5-a9c9fc7390eb)
+
+
 

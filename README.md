@@ -141,31 +141,10 @@ om/124863903/232183170-48605b9d-999f-4c08-9eee-58738356a562.jpg)
 ![1729837574201_Dashboard](https://github.com/user-attachments/assets/81312246-6cf2-45fb-99b5-a9c9fc7390eb)
 
 
-![Uploading 172983764773<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="137" height="140" viewBox="0 0 137 140">
-  <defs>
-    <filter id="Path_35400">
-      <feOffset dy="3" input="SourceAlpha"/>
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feFlood flood-opacity="0.161" result="color"/>
-      <feComposite operator="out" in="SourceGraphic" in2="blur"/>
-      <feComposite operator="in" in="color"/>
-      <feComposite operator="in" in2="SourceGraphic"/>
-    </filter>
-  </defs>
-  <g id="Group_38656" data-name="Group 38656" transform="translate(1001 -4760)">
-    <rect id="Rectangle_9555" data-name="Rectangle 9555" width="137" height="140" rx="32" transform="translate(-1001 4760)" fill="#efefef"/>
-    <g id="Layer_29" data-name="Layer 29" transform="translate(-970 4792)">
-      <g data-type="innerShadowGroup">
-        <path id="Path_35400-2" data-name="Path 35400" d="M72.449,18.027v5.342H3V18.027a5.342,5.342,0,0,1,5.342-5.342h8.013V4.671a2.671,2.671,0,1,1,5.342,0v8.013H53.751V4.671a2.671,2.671,0,0,1,5.342,0v8.013h8.013A5.342,5.342,0,0,1,72.449,18.027ZM3,28.711H72.449V68.778a5.342,5.342,0,0,1-5.342,5.342H8.342A5.342,5.342,0,0,1,3,68.778Zm19.633,19.1,5.342,5.129a2.03,2.03,0,0,1,.614,1.87L27.36,62.073a2.137,2.137,0,0,0,3.1,2.244L36.95,60.9a2.217,2.217,0,0,1,2,0l6.491,3.419a2.137,2.137,0,0,0,2.965-2.244L47.18,54.808a2.03,2.03,0,0,1,.614-1.87l5.342-5.129a2.164,2.164,0,0,0-1.175-3.659l-7.292-1.042a2.137,2.137,0,0,1-1.6-1.042l-3.259-6.6a2.137,2.137,0,0,0-3.82,0l-3.285,6.6a2.137,2.137,0,0,1-1.6,1.175l-7.265,1.042a2.164,2.164,0,0,0-1.2,3.526Z" transform="translate(0 0)" fill="#038943"/>
-        <g transform="matrix(1, 0, 0, 1, -31, -32)" filter="url(#Path_35400)">
-          <path id="Path_35400-3" data-name="Path 35400" d="M72.449,18.027v5.342H3V18.027a5.342,5.342,0,0,1,5.342-5.342h8.013V4.671a2.671,2.671,0,1,1,5.342,0v8.013H53.751V4.671a2.671,2.671,0,0,1,5.342,0v8.013h8.013A5.342,5.342,0,0,1,72.449,18.027ZM3,28.711H72.449V68.778a5.342,5.342,0,0,1-5.342,5.342H8.342A5.342,5.342,0,0,1,3,68.778Zm19.633,19.1,5.342,5.129a2.03,2.03,0,0,1,.614,1.87L27.36,62.073a2.137,2.137,0,0,0,3.1,2.244L36.95,60.9a2.217,2.217,0,0,1,2,0l6.491,3.419a2.137,2.137,0,0,0,2.965-2.244L47.18,54.808a2.03,2.03,0,0,1,.614-1.87l5.342-5.129a2.164,2.164,0,0,0-1.175-3.659l-7.292-1.042a2.137,2.137,0,0,1-1.6-1.042l-3.259-6.6a2.137,2.137,0,0,0-3.82,0l-3.285,6.6a2.137,2.137,0,0,1-1.6,1.175l-7.265,1.042a2.164,2.164,0,0,0-1.2,3.526Z" transform="translate(31 32)" fill="#fff"/>
-        </g>
-      </g>
-    </g>
-  </g>
-</svg>
-1_Events.svg…]()
+
+![1729837691394_Users](https://github.com/user-attachments/assets/6cfe2a7f-1f15-49fc-b301-8991314d599c)
 
 
+![1729836140374_Master Setup](https://github.com/user-attachments/assets/78cf872a-bc24-4f01-a504-97f54db31806)
 
-
+![1729836213193_Settings](https://github.com/user-attachments/assets/9f755ee0-4ebb-440c-a9c1-e318773d66a0)
